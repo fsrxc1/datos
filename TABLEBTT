@@ -1,0 +1,9 @@
+CREATE TABLE IF NOT EXISTS 'products_list' (
+'1' INT(11) NOT NULL,
+  'orbea-mx-50-27' VARCHAR(60) NOT NULL,
+  'product_desc' text NOT NULL,
+  '01222'varchar(60) not null,
+  '<img src="imagenes/xc/orbea-mx-50-27.jpg"VARCHAR(60) NOT NULL
+  '590.99EUROS IVA INCLUIDO'DECIMAL(10,2) NOT NULL
+
+  ) AUTO_INCREMENT=1 ;
